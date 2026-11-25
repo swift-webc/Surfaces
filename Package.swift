@@ -19,15 +19,15 @@ let package = Package(
             branch: "master"
         ),
         .package(
-            url: "https://github.com/leviouwendijk/Structures.git",
+            url: "https://github.com/swift-lco/Structures.git",
             branch: "master"
         ),
         .package(
-            url: "https://github.com/leviouwendijk/Extensions.git",
+            url: "https://github.com/swift-lco/Extensions.git",
             branch: "master"
         ),
         .package(
-            url: "https://github.com/leviouwendijk/Interfaces.git",
+            url: "https://github.com/swift-lco/Interfaces.git",
             branch: "master"
         ),
         .package(
@@ -43,7 +43,7 @@ let package = Package(
         //     from: "1.12.0"
         // ),
         .package(
-            url: "https://github.com/leviouwendijk/Primitives.git",
+            url: "https://github.com/swift-lco/Primitives.git",
             branch: "master"
         ),
 
