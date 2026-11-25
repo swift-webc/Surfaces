@@ -48,12 +48,12 @@ let package = Package(
         ),
 
         .package(
-            url: "https://github.com/leviouwendijk/HTML.git",
+            url: "https://github.com/swift-dsl/HTML.git",
             branch: "master"
         ),
 
         .package(
-            url: "https://github.com/leviouwendijk/PSQL.git",
+            url: "https://github.com/swift-dsl/PSQL.git",
             branch: "master"
         ),
     ],
